@@ -8,6 +8,7 @@ class Hy01ProjectApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("第一次git提交测试20210510");
     }
 
 }
